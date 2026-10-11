@@ -1,11 +1,12 @@
 ---
 name: shuohao-western
-description: Create a live-action Western/European short-drama package for any of these genres: business dynasty, courtroom mystery, crime investigation, dark thriller, urban romance, apocalypse survival, western, family drama, school drama, or espionage. Use when the user asks for 欧美真人短剧、English-language live-action drama, or explicitly invokes shuohao-western.
+description: "Create a live-action Western/European short-drama package for genres including business, courtroom, crime, thriller, romance, apocalypse, western, family drama, spy stories."
 metadata:
   skill_id: shuohao-western
   locale: zh-CN
   output: story-package
 ---
+
 
 # 欧美真人短剧全题材 Skill
 
